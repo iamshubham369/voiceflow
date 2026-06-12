@@ -1,3 +1,4 @@
+/** @module TranscriptModal */
 import React, { useEffect } from 'react'
 import { X, Clock, HelpCircle, User, ShieldCheck } from 'lucide-react'
 
