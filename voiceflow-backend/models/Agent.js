@@ -1,3 +1,4 @@
+/** @module Agent */
 const mongoose = require('mongoose');
 
 const AgentSchema = new mongoose.Schema({
