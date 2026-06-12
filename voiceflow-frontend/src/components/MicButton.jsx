@@ -1,3 +1,4 @@
+/** @module MicButton */
 import React from 'react'
 import { Mic, MicOff } from 'lucide-react'
 
