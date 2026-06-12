@@ -1,3 +1,4 @@
+/** @module useSpeechSynthesis */
 import { useState, useEffect, useRef, useCallback } from 'react'
 
 export default function useSpeechSynthesis(defaultSettings = {}) {
