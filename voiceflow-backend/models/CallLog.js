@@ -1,3 +1,4 @@
+/** @module CallLog */
 const mongoose = require('mongoose');
 
 const TranscriptItemSchema = new mongoose.Schema({
