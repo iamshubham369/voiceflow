@@ -1,3 +1,4 @@
+/** @module Logs */
 import React, { useState } from 'react'
 import { 
   Search, 
