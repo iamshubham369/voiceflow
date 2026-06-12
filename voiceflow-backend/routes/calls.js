@@ -1,3 +1,4 @@
+/** @module calls */
 const express = require('express');
 const router = express.Router();
 const CallLog = require('../models/CallLog');
