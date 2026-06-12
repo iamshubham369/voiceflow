@@ -1,3 +1,4 @@
+/** @module useSpeechRecognition */
 import { useState, useEffect, useRef, useCallback } from 'react'
 
 export default function useSpeechRecognition() {
