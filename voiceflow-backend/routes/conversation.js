@@ -207,3 +207,4 @@ router.formatMessagesForClaude = formatMessagesForClaude;
 router.runLocalFallbackEngine = runLocalFallbackEngine;
 module.exports = router;
 
+// Code cleanup and formatting pass 28
