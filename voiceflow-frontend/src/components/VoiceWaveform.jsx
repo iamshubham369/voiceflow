@@ -1,3 +1,4 @@
+/** @module VoiceWaveform */
 import React from 'react'
 
 export default function VoiceWaveform({ isActive }) {
